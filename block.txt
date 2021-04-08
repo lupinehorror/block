@@ -5,3 +5,4 @@ get.secured-install.com
 ichnaea.netflix.com
 app-measurement.com
 in.appcenter.ms
+canyoublockit.com
