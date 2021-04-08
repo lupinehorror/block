@@ -1,3 +1,7 @@
 self.events.data.microsoft.com
 mobile.pipe.aria.microsoft.com
-(\.|^)facebook\.com$
+facebook.com
+get.secured-install.com
+ichnaea.netflix.com
+app-measurement.com
+in.appcenter.ms
