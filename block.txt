@@ -6,3 +6,4 @@ ichnaea.netflix.com
 app-measurement.com
 in.appcenter.ms
 canyoublockit.com
+mads-eu.amazon.com
