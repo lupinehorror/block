@@ -7,3 +7,4 @@ app-measurement.com
 in.appcenter.ms
 canyoublockit.com
 mads-eu.amazon.com
+be-nl.norton.com
