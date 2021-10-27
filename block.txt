@@ -12,3 +12,4 @@ netfli.com
 aazon.com
 logfiles.zoom.us
 latespace.co.uk
+log.aliyuncs.com
