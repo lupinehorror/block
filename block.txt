@@ -13,3 +13,4 @@ aazon.com
 logfiles.zoom.us
 latespace.co.uk
 log.aliyuncs.com
+nrcapi.ssl2.duapps.com
